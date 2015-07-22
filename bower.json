@@ -1,0 +1,23 @@
+{
+  "name": "efront-boilerplate",
+  "version": "0.0.1",
+  "description": "Efront Boilerpate",
+  "main": "index.html",
+  "authors": [
+    "Jolane Synott"
+  ],
+  "license": "MIT",
+  "homepage": "http://efront.com.au",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-validation": "~1.14.0",
+    "jquery-cycle2": "~2.1.6",
+    "jquery": "1.11.3"
+  }
+}
