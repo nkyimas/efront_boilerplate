@@ -1,0 +1,11 @@
+{
+  "name": "efront-boilerplate",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-exec": "*",
+    "grunt-wiredep": "*",
+    "grunt-contrib-watch": "*",
+    "matchdep": "*"
+  }
+}
